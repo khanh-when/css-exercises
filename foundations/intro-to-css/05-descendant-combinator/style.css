@@ -1,1 +1,35 @@
 /* Add CSS Styling */
+
+/* Class Descendant Combinator */
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Type Selector Descendant Combinator */
+/* div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+
+/* Type Selector/Class Descendant 1. Combinator */
+/* div .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+
+/* Type Selector/Class Descendant 2. Combinator */
+/* .container p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
